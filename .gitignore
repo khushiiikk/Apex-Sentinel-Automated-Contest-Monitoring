@@ -1,0 +1,9 @@
+agent_talks/
+backend/__pycache__/
+backend/venv/
+backend/.env
+backend/contests.db
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+.DS_Store

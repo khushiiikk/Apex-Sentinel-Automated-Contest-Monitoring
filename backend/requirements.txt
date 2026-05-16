@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+requests
+beautifulsoup4
+pydantic
+python-dotenv
+aiohttp
+# For the AI Agent logic
+openai
+langchain
+langchain-openai
