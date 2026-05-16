@@ -1,4 +1,5 @@
 # Apex Sentinel: Automated Contest Monitoring
+<img width="1887" height="915" alt="image" src="https://github.com/user-attachments/assets/ad6f06e8-2bed-48b0-a60b-5dd398b2781d" />
 
 Apex Sentinel is a comprehensive, full-stack application designed for competitive programmers and coding enthusiasts. It acts as an automated, centralized tracking hub for upcoming coding contests across multiple platforms such as Codeforces, LeetCode, CodeChef, and AtCoder.
 
