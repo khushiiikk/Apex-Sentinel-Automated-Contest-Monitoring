@@ -87,7 +87,3 @@ To run Apex Sentinel locally, you need to spin up both the backend server and th
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
-## 📄 License
-
-This project is licensed under the MIT License.
